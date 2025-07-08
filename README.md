@@ -1,4 +1,3 @@
-# fineprinting <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -1278,7 +1277,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2023 FinePrinting. All Rights Reserved. | Designed with <i class="fas fa-heart" style="color: #d4af37;"></i> in UAE</p>
+                <p>&copy; 2023 FinePrinting. All Rights Reserved. | Designed with <i class="fas fa-heart" style="color: #d4af37;"></i> harmain ali</p>
             </div>
         </div>
     </footer>
